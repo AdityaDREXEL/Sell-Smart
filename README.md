@@ -1,1 +1,1 @@
-# Sanbi - AI Reseller Agent
+# Sell Smart - AI Reseller Agent
